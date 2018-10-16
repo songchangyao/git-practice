@@ -1,0 +1,3 @@
+plot(mtcars)
+
+summary(mtcars)
